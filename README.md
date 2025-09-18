@@ -17,6 +17,6 @@ This repository includes test documentation for **mobile applications** (Android
 - Login + Cart critical path checks (10 items)
 
 ## Artifacts
--  [Checklist](bs-live-2025-08-26/checklists/...)  
+-  [Checklist](adaptive-ux-mobile-checks-0826/checklists/...)  
 -  [Defect Reports](calculator/bugreports.md)  
 -  [Screens](calculator/screens/)  
